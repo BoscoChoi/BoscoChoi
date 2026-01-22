@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi! I'm Bosco
 
-<!--
-**BoscoChoi/BoscoChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/bosco-choi/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m an urban planning student at UCL with an interest in data-driven approaches to urban planning and design.
+
+I’m currently building Python-based projects to explore urban issues, combining spatial data, policy analysis, and quantitative methods. I'm still learning and experimenting!
+
+---
+
+## ✨ About Me
+
+- 💡 Interested in **strategic planning**, **masterplanning**, and **urban design**  
+- ⚙️ Tools I love: Pandas, matlibplot, QGIS, ArcGIS Pro, Grasshopper  
+
+---
+
+## 🚀 Featured Project
+
+| Project                                                     | Description                                                                                    | Link                                             |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Airbnb in London**    | This group project explores whether Airbnb is out of control in London. It was prepared as a policy brief to the "Mayor" in a hypothetical scenario.      | [Visit Site](https://benjamintee.github.io/CASA_FSDS_Project/Group_Work.html)    |
+| **Housing near train stations**    | This independent project investgates whether the recent UK government announcement to give a "default yes" to planning applications near train stations is a good idea. I mainly looked into the planning applications database to identify past trends, and used K-Means clustering to identify opportunity areas for further densification     | [Visit Site](https://boscochoi.github.io/Housing_Default_Yes_Project/qm_final_assm.html)    |
+
+
