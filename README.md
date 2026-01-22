@@ -20,7 +20,8 @@ I’m currently building Python-based projects to explore urban issues, combinin
 
 | Project                                                     | Description                                                                                    | Link                                             |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Housing near train stations**    | Recently, the UK government announced to give "default yes" to housing applications near train stations. Is this a good idea? Where are the opportunity areas for further densification? I investigated the past planning applications database and employed K-Means clustering to answer the question.   | [Visit Site](https://boscochoi.github.io/Housing_Default_Yes_Project/qm_final_assm.html)    |
 | **Airbnb in London**    | This group project explores whether Airbnb is out of control in London. It was prepared as a policy brief to the "Mayor" in a hypothetical scenario.      | [Visit Site](https://benjamintee.github.io/CASA_FSDS_Project/Group_Work.html)    |
-| **Housing near train stations**    | This independent project investgates whether the recent UK government announcement to give a "default yes" to housing applications near train stations is a good idea. I mainly looked into the planning applications database to identify past trends, and used K-Means clustering to identify opportunity areas for further densification.     | [Visit Site](https://boscochoi.github.io/Housing_Default_Yes_Project/qm_final_assm.html)    |
+
 
 
