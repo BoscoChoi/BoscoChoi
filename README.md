@@ -22,6 +22,6 @@ I’m currently building Python-based projects to explore urban issues, combinin
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | **Housing near train stations**    | Recently, the UK government announced to give "default yes" to housing applications near train stations. Is this a good idea? Where are the opportunity areas for further densification? I investigated the past planning applications database and employed K-Means clustering to answer the question.   | [Visit Site](https://boscochoi.github.io/Housing_Default_Yes_Project/qm_final_assm.html)    |
 | **Airbnb in London**    | This group project explores whether Airbnb is out of control in London. It was prepared as a policy brief to the "Mayor" in a hypothetical scenario.      | [Visit Site](https://benjamintee.github.io/CASA_FSDS_Project/Group_Work.html)    |
-
+| **Surface breakdown web app**    | This is a web app prototype developed in a one day hackathon with UCLSU and Homefolk. The app allows users to input a postcode and outputs breakdown of paved, non-paved areas and building footprint, aiming to support Homefolk's vision in indentifying areas for tiny infill houses.     | [Visit Site](https://london-surface-area.streamlit.app/)    |
 
 
