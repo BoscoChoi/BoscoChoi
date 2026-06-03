@@ -5,7 +5,7 @@
 
 👋 Hi, I’m an urban planning student at UCL with an interest in data-driven approaches to urban planning and design.
 
-I’m currently building Python-based projects to explore urban issues, combining spatial data, policy analysis, and quantitative methods. I'm still learning and experimenting!
+I’m currently building Python-based projects to explore urban issues, combining spatial data, policy analysis, and quantitative methods. Always learning and experimenting!
 
 ---
 
