@@ -12,7 +12,7 @@ I’m currently building Python-based projects to explore urban issues, combinin
 ## ✨ About Me
 
 - 💡 **Interested in:** strategic planning, remote sensing, masterplanning, and urban economics 
-- ⚙️ **Tools I love:** geopandas, seaborn, DuckDB, QGIS, ArcGIS Pro, Grasshopper  
+- ⚙️ **Tools I love:** geopandas, seaborn, DuckDB, QGIS, Grasshopper  
 
 ---
 
