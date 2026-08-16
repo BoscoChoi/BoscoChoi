@@ -16,7 +16,7 @@ I’m currently building Python-based projects to explore urban issues, combinin
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 | Project                                                     | Description                                                                                    | Link                                             |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------|
